@@ -1,0 +1,6 @@
+{
+  "name": "安徽省芜湖大米特色产业集群综合指挥中心",
+  "description": "基于Three.js构建的626亩智慧农业数字孪生三维指挥系统，集成作物全周期生长模拟、温湿度与土壤墒情实时可视化、无人机多光谱巡检交互及自适应数据大屏。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
